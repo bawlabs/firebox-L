@@ -4,3 +4,4 @@
 * you should order 4 identical copies
 * these will slot together to form a box 320mm x 320mm
 
+![bawlabs-firebox-L](img/bawlabs-firebox-L.JPG)
